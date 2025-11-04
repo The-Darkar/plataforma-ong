@@ -34,3 +34,22 @@ form {
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* === Ajuste das imagens === */
+.imagem-padrao {
+  width: 100%;
+  max-width: 400px; /* limite de tamanho */
+  height: auto; /* mantém proporção */
+  display: block; /* força quebra de linha */
+  margin: 20px auto; /* centraliza */
+  border-radius: 8px; /* opcional, deixa cantos suaves */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); /* opcional */
+}
+
+/* Responsividade para telas menores */
+@media (max-width: 600px) {
+  .imagem-padrao {
+    max-width: 90%;
+  }
+}
