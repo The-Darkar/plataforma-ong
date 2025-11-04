@@ -10,3 +10,26 @@ Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento Front-
 - Simular um ambiente de desenvolvimento profissional
 
 ## 🧩 Estrutura do Projeto
+
+plataforma-ong/ ├── index.html ├── projetos.html ├── cadastro.html ├── css/ │   └── style.css ├── js/ │   └── script.js └── assets/ └── img/
+
+
+## 📄 Páginas Desenvolvidas
+
+- **index.html** – Apresentação da ONG, missão, visão, equipe e contato
+- **projetos.html** – Detalhes dos projetos sociais, voluntariado e doações
+- **cadastro.html** – Formulário com validação e máscaras de input
+
+## 🧪 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+
+## ✅ Requisitos Atendidos
+
+- [x] Estrutura semântica com hierarquia de títulos
+- [x] Três páginas HTML com imagens e conteúdo relevante
+- [x] Formulário com validação nativa e campos agrupados
+- [x] Máscaras de input
