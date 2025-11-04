@@ -39,3 +39,11 @@ input {
   width: 100%;
   padding: 8px;
 }
+
+img {
+  width: 600px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
