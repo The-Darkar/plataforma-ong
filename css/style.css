@@ -38,19 +38,4 @@ form {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.imagem-padrao {
-  display: block;
-  width: 100%;
-  max-width: 400px;
-  height: auto;
-  margin: 20px auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-  object-fit: cover;
-}
-
-@media (max-width: 600px) {
-  .imagem-padrao {
-    max-width: 90%;
-  }
-}
+.imagem
